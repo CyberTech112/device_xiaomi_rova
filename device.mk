@@ -282,8 +282,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.perf@1.0.vendor \
     vendor.qti.hardware.perf@2.0.vendor \
-    vendor.qti.hardware.perf@2.1.vendor \
-    vendor.qti.hardware.perf@2.2.vendor
+    vendor.qti.hardware.perf@2.1.vendor
 
 # Permissions
 PRODUCT_COPY_FILES += \
